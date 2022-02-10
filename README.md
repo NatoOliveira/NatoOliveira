@@ -1,5 +1,5 @@
 <h3>Olá, me chamo Renato Oliveira</h3>
-📚 Estudo atualmente: <b>JAVA</b> | <b>HTML</b> | <b>CSS</b> | <b>PHP</b>
+📚 Estudo atualmente: <b>JAVA</b> | <b>HTML5</b> | <b>CSS3</b> | <b>PHP</b> | <b>JavaScript</b>
 
 ## <div>
   <a href="https://github.com/NatoOliveira">
