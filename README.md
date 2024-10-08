@@ -1,4 +1,4 @@
-<h3>Olá, me chamo Renato Oliveira</h3>
+<h3>Olá, me chamo Renato Oliveira.</h3>
 📚 Trabalho com: <b>PHP</b> | <b>LARAVEL</b> | <b>MYSQL</b> | <b>SQL</b> | <b>JAVASCRIPT</b> | <b>JQUERY</b> | <b>HTML</b> | <b>CSS</b>
 
 <hr>
