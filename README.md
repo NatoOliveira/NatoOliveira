@@ -1,5 +1,5 @@
 <h3>Olá, me chamo Renato Oliveira</h3>
-📚 Estudo atualmente: <b>JAVA</b> | <b>HTML5</b> | <b>CSS3</b> | <b>PHP</b> | <b>JavaScript</b>
+📚 Trabalho com: <b>PHP</b> | <b>LARAVEL</b> | <b>MYSQL</b> | <b>SQL</b> | <b>JAVASCRIPT</b> | <b>JQUERY</b> | <b>HTML</b> | <b>CSS</b> 
 
 ## <div>
   <a href="https://github.com/NatoOliveira">
