@@ -1,10 +1,5 @@
 <h3>Olá, me chamo Renato Oliveira</h3>
-📚 Trabalho com: <b>PHP</b> | <b>LARAVEL</b> | <b>MYSQL</b> | <b>SQL</b> | <b>JAVASCRIPT</b> | <b>JQUERY</b> | <b>HTML</b> | <b>CSS</b> 
-
-## <div>
-  <a href="https://github.com/NatoOliveira">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=NatoOliveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</div> ##
+📚 Trabalho com: <b>PHP</b> | <b>LARAVEL</b> | <b>MYSQL</b> | <b>SQL</b> | <b>JAVASCRIPT</b> | <b>JQUERY</b> | <b>HTML</b> | <b>CSS</b>
   
 <div>
   <a href="https://www.linkedin.com/in/renato-oliveira-083b11220" target="_blank">
